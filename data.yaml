@@ -1,4 +1,0 @@
-train: ../Penugasan YoloV5/Datasets/images/train
-val: ../Penugasan YoloV5/Datasets/images/val
-nc: 2
-names: ['mask', 'no_mask']
